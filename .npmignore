@@ -1,0 +1,7 @@
+src/
+*.ts
+!*.d.ts
+node_modules/
+*.test.ts
+*.spec.ts
+coverage/
