@@ -22,11 +22,11 @@ This project and everyone participating in it are governed by the [Code of Condu
 
 ## Reporting Bugs
 
-If you encounter any bugs or issues, please open an issue on the [Issue Tracker](https://github.com/raw-leak/configleam-js-client/issues). Provide as much detail as possible, including steps to reproduce the issue and any relevant information about your environment.
+If you encounter any bugs or issues, please open an issue on the [Issue Tracker](https://github.com/raw-leak/configleam-nestjs-client/issues). Provide as much detail as possible, including steps to reproduce the issue and any relevant information about your environment.
 
 ## Feature Requests
 
-If you have an idea for a new feature or enhancement, please open an issue on the [Issue Tracker](https://github.com/raw-leak/configleam-js-client/issues). Describe the feature you would like to see and provide any relevant context or use cases.
+If you have an idea for a new feature or enhancement, please open an issue on the [Issue Tracker](https://github.com/raw-leak/configleam-nestjs-client/issues). Describe the feature you would like to see and provide any relevant context or use cases.
 
 ## Code Style and Guidelines
 

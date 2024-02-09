@@ -1,6 +1,6 @@
 import { ConfigleamService } from "../configleam.service";
 import { ConfigleamProvider } from "../configleam.provider";
-import { ReadConfigOptions, ReadConfigParam } from "configleam-js-client";
+import { ReadConfigOptions, ReadConfigParam } from "configleam-nestjs-client";
 
 describe("ConfigleamService", () => {
   let configleamService: ConfigleamService;
