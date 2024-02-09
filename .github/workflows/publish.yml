@@ -16,10 +16,12 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '20'
-        registry-url: 'https://registry.npmjs.org/'
 
     - name: Install dependencies
       run: npm install
+
+    - name: Install NestJS CLI
+      run: npm install --save-dev @nestjs/cli
 
     - name: Build project
       run: npm run build
